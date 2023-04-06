@@ -1,0 +1,10 @@
+li:hover{
+    color: rgb(229, 229, 132);
+}
+
+@media(max-width:800px){
+    .wid8{
+        position: absolute;
+        top: -200%;
+    }
+}
